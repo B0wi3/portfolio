@@ -258,7 +258,7 @@ nav ul li a:hover::after {
   }
 }
 
-@media (min-width: 100px) and (max-width: 800px) {
+@media (min-width: 1px) and (max-width: 800px) {
   .projects {
     position: absolute;
     top: 170px;
