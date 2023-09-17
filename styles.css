@@ -248,7 +248,7 @@ nav ul li a:hover::after {
   padding: 30px 100px;
 }
 
-@media (min-width: 481px) and (max-width: 1150px) {
+@media (min-width: 800px) and (max-width: 1150px) {
   .me {
     height: 200px;
     width: 200px;
@@ -258,7 +258,7 @@ nav ul li a:hover::after {
   }
 }
 
-@media (min-width: 481px) and (max-width: 800px) {
+@media (min-width: 100px) and (max-width: 800px) {
   .projects {
     position: absolute;
     top: 170px;
@@ -286,3 +286,4 @@ nav ul li a:hover::after {
     color: #fd4766;
   }
 }
+
