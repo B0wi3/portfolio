@@ -247,3 +247,42 @@ nav ul li a:hover::after {
   align-items: center;
   padding: 30px 100px;
 }
+
+@media (min-width: 481px) and (max-width: 1150px) {
+  .me {
+    height: 200px;
+    width: 200px;
+    top: 100px;
+    left: 43%;
+    margin-bottom: 200px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 800px) {
+  .projects {
+    position: absolute;
+    top: 170px;
+    display: block;
+  }
+
+  .grid-item {
+    margin-bottom: 20px;
+  }
+
+  .contact {
+    position: relative;
+  }
+
+  .info {
+    margin-top: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 100px;
+  }
+
+  .contact .fa {
+    font-size: 15px;
+    color: #fd4766;
+  }
+}
