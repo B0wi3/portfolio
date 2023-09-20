@@ -248,6 +248,7 @@ nav ul li a:hover::after {
 .contact {
   position: relative;
   top: 1000px;
+  margin-top: 300px;
 }
 
 .info {
