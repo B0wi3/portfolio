@@ -193,6 +193,7 @@ nav ul li a:hover::after {
   justify-content: center;
   position: relative;
   font-size: 22px;
+  margin-bottom: 300px;
 }
 
 .portfolio span {
